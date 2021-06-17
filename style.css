@@ -1,0 +1,26 @@
+body{
+  background-color: blue;
+  margin: 0
+
+}
+header{background-color: greenyellow;
+height: 80px;
+}
+p{
+  margin: 40px;
+  padding: 30px;
+  background-color: red;
+}
+h1{float: left;}
+nav{
+  float:right;
+}
+div{
+  display: inline-block ;
+  padding: 20px;
+}
+img{
+  width: 100px;
+  height: 100px;
+  display: inline-block ;
+}
