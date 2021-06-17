@@ -21,6 +21,7 @@ if( mal == 49){
 }
  else {
    alert('try again')
+<<<<<<< HEAD
    for(y = 1 ; y<=3;y++){
   prompt('you have #three trials#(7*7=) ')}
 }
@@ -45,3 +46,6 @@ for ( i =0 ; i<= imgR;i++){
    document.write( '<img src="https://thirdspacelearning.com/wp-content/uploads/2020/05/long-multiplication-method-how-to-teach-1024x538.jpg" />' )
 
 }
+=======
+}
+>>>>>>> 5643c46f996f7c1b163a6a651f365829531cb482
