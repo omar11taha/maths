@@ -50,5 +50,8 @@ for ( i =0 ; i<=pic;i++) {
   
    document.write( '<img src="https://thirdspacelearning.com/wp-content/uploads/2020/05/long-multiplication-method-how-to-teach-1024x538.jpg" />' )
 }
+<<<<<<< HEAD
 }
 pic1();
+=======
+>>>>>>> 17a1ddb1fe9df2589798d325d2a6bb001c18fd77
