@@ -1,16 +1,18 @@
-alert("math")
-var name = prompt("2+5=")
-while(name != "7"){
-  name = prompt("please,try agane!(2+5)")
-}
+// alert("math")
+// var m = prompt("2+5=")
+// while(m != "7"){
+//   m = prompt("please,try agane!(2+5)")
 
 
-if(name == 7){
-  alert ("great ")
-}
-else{
-   alert('try again')
-}
+// if(name == 7){
+//   alert ("great ")
+// }
+// else{
+//    alert('try again')
+
+// }
+
+// }
 
 var mal = prompt("7*7")
   
@@ -21,14 +23,11 @@ if( mal == 49){
 }
  else {
    alert('try again')
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> b74f7e6b52d03a310ce1f4c23526942051506427
+
+
    for(y = 1 ; y<=3;y++){
   prompt('you have #three trials#(7*7=) ')}
 }
-
 var  math = prompt('calculation-method')
 
 
@@ -42,17 +41,14 @@ if (math == 'Multiplication' ){
 else{
   alert('try again')
 }
-var imgR = prompt('HWO many times you need to see the photo')
 
-for ( i =0 ; i<= imgR;i++){
+
+var pic = prompt('HWO many times you need to see the photo')
+function pic1(){
+
+for ( i =0 ; i<=pic;i++) {
   
    document.write( '<img src="https://thirdspacelearning.com/wp-content/uploads/2020/05/long-multiplication-method-how-to-teach-1024x538.jpg" />' )
-
 }
-<<<<<<< HEAD
-
-=======
-=======
 }
->>>>>>> 5643c46f996f7c1b163a6a651f365829531cb482
->>>>>>> b74f7e6b52d03a310ce1f4c23526942051506427
+pic1();
